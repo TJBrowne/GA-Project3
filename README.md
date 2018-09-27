@@ -3,10 +3,8 @@ This project is to provide a frontend site to be able to search villains from a 
 
 ## ERD
 
-[Relative Database Design](./ERD.png)
+[Relative Database Design](./ERD2.png)
 
 ## Wireframes
 
 [WireFrames](https://drive.google.com/file/d/1EOKDtv5QbE6I9c8Rfwb_MboP02_fzQCu/view?usp=sharing)
-
-
