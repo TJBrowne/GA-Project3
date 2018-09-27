@@ -1,29 +1,12 @@
-# Full stack app boilerplate
+#Villain Character Database
+This project is to provide a frontend site to be able to search villains from a database and favorite whichever you like.
 
-This is boilerplate for a full-stack app.
+## ERD
 
-## Install JS dependencies
+[Relative Database Design](https://files.slack.com/files-pri/T0351JZQ0-FD3PNGXUN/screen_shot_2018-09-27_at_11.02.42_am.png)
 
-```
-npm install
-```
+## Wireframes
 
-## Modify the database name
+[WireFrames](https://drive.google.com/file/d/1EOKDtv5QbE6I9c8Rfwb_MboP02_fzQCu/view?usp=sharing)
 
-The database name is defined in `createDb.sql` and `models.js`. You'll need to edit them by hand for now.
 
-## Create the database
-
-```
-npm run db
-```
-
-This will drop the database, recreate it, create tables defined in `models.js`, and seed the database with instance data from `seed.js`
-
-## Run the development server
-
-This will start both the Express API server and the React application.
-
-```
-npm run dev
-```
