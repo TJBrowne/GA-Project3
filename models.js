@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 
 const sequelize = new Sequelize({
-  database: 'some_app_name',
+  database: 'villains_db',
   dialect: 'postgres'
 });
 
@@ -10,6 +10,8 @@ const sequelize = new Sequelize({
 
 
 module.exports = {
-  // Export models
+  User,
+  Character,
+  Media,
   sequelize: sequelize
 };
