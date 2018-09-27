@@ -1,4 +1,4 @@
-#Villain Character Database
+# Villain Character Database
 This project is to provide a frontend site to be able to search villains from a database and favorite whichever you like.
 
 ## ERD
